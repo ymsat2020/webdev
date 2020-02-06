@@ -5,8 +5,8 @@ var links = [
 "li1","li2","li3","li4","li5","li6","li7","li8","li9","li10",
 "mg1","mg10","mg11","mg12","mg2","mg3","mg4","mg5","mg6","mg7","mg8","mg9",
 "na1","na2","na3","na4","na5","na6","na7","na8","na9",
-"sr3","sr5","sr7","sr8","sr9","sr10","sr11","sr12","sr13","sr14","sr15",
-"rb1","rb2","rb3","rb4","rb5","rb6","rb7","rb8","rb9","rb10",
+"sr2","sr3","sr4","sr5","sr7","sr8","sr9","sr10","sr11","sr12","sr13","sr14","sr15","sr16","sr17","sr18","sr19",
+"rb1","rb2","rb3","rb4","rb5","rb6","rb7","rb8","rb9","rb10","rb11","rb13","rb14","rb15","rb16",
 ]
 
 var title = [
@@ -79,7 +79,9 @@ var title = [
 /**************************************
 SR
 **************************************/
+"The Animal Cell", //sr2
 "Mobile Legends", //sr3
+"[Fe] Element Week Art", //sr4
 "Take A Break", //sr5
 "The Human Digestive System", //sr7
 "Sightlines", //sr8
@@ -90,6 +92,10 @@ SR
 "The Digestive System", //sr13
 "Pisay Eats", //sr14
 "Graphika 2019", //sr15
+"Jasminions", //sr16
+'The "Death" of OPM', //sr17
+"Bivariate Data", //sr18
+"CONSULT.CO", //sr19
 
 /**************************************
 RB
@@ -104,6 +110,11 @@ RB
 "The Pisay Spice", //rb8
 "Fake Messenger", //rb9
 "Corona Virus", //rb10
+"Pisay Art", //rb11
+"PSHS Clubs", //rb13
+"GKS", //rb14
+"Kradikal Opinyon", //rb15
+"PISAY CONCESSIONAIRES", //rb16
 ]
 
 var desc = [
@@ -176,7 +187,9 @@ var desc = [
 /**************************************
 SR
 **************************************/
+"The website shows the Animal Cell and the common cell organelles that can be found in it. It also lists a brief description of each organelle and their function.", //sr2
 "Description of how ML helps in the stressful Pisay life.", //sr3
+"An art blog-esque website showcasing the art I did for our chemistry project, [Fe] Element Week.", //sr4
 "Literally just a blog about things, nothing else really...", //sr5
 "Overview of human digestive system", //sr7
 "A site describing the English theatre club of PSHS-MC (Sightlines) as of AY 2019-2020.", //sr8
@@ -187,6 +200,10 @@ SR
 "My website aims to inform people about the digestive system, one of the many organ systems of the human body.", //sr13
 "Concept for a Pisay-based food delivery app (still under construction)", //sr14
 "Our own Website about Graphika 2019", //sr15
+"It is a personal website designed with pictures from my grade 8 section, Jasmin.", //sr16
+"A blog/article about the state of certain OPM bands today", //sr17
+"Just a site explaining bivariate data.", //sr18
+"Our website is an online consultation form for students.", //sr19
 
 /**************************************
 RB
@@ -201,6 +218,11 @@ RB
 "Food blog type site that features combinations of food from Pisay's three main concessionaires following a theme.", //rb8
 "It is an imitation of the website messenger.com. Also 'chatting' is actually a thing in this website.", //rb9
 "A website dedicated to raise awareness and communicate the latest updates about the corona virus and it's impact with the school community.", //rb10
+"This website is a gallery of our calligraphy works and how they improved and developed over time, while we each used a different kind of pen.", //rb11
+"List of all the clubs in PSHS in 3 categories which are sports, art, and acads.", //rb13
+"Meet some of the most important people in our Pisay journey, our Grade 8 friend group: GKS!", //rb14
+"This website's purpose is to address certain controversies regarding the new school policies. ", //rb15
+"Our ratings for what our top 3 foods are from the concessionaires here in Pisay.", //rb16
 ]
 
 var urls = [
@@ -273,7 +295,9 @@ var urls = [
 /**************************************
 SR
 **************************************/
+"https://fibi-renren.github.io/", //sr2
 "https://exonerated-conferen.000webhostapp.com/MLinPisay/index.html", //sr3
+"https://personal-spaces.github.io/ ", //sr4
 "https://craggier-millions.000webhostapp.com/", //sr5
 "http://biology.22web.org/2q%20project/homepage/", //sr7
 "https://thesightlinesclub.000webhostapp.com/", //sr8
@@ -284,11 +308,15 @@ SR
 "https://bio-csproj2ndquarter.000webhostapp.com/proj%20final%20final/proj.html", //sr13
 "https://pisayeats.000webhostapp.com/splashpage.html", //sr14
 "https://unhingedgoose.github.io/", //sr15
+"https://jasmin-2023.000webhostapp.com/", //sr16
+"https://whoopsie.000webhostapp.com/index.html", //sr17
+"https://bivariatedatauwu.000webhostapp.com/index.html", //sr18
+"https://localnoob.github.io/", //sr19
 
 /**************************************
 RB
 **************************************/
-"https://cs3q3projectmetaguide.000webhostapp.com/Home.html", //rb1
+"https://therealproffy.github.io/pshs-cs3-q2-project-metaguide/Home.html", //rb1
 "https://gr9biochemphysics.000webhostapp.com/index.html", //rb2
 "https://vivien1084.github.io/favplaceinpisay/", //rb3
 "http://rb2023.000webhostapp.com/", //rb4
@@ -298,6 +326,11 @@ RB
 "https://pisayspice.000webhostapp.com/", //rb8
 "https://rb18-messengerproject.000webhostapp.com/Messenger.html", //rb9
 "https://cantorial-holder.000webhostapp.com/index%20copy.html", //rb10
+"https://garoite.github.io/Pisay-Art/", //rb11
+"https://rb01-rb06csprojqr3.000webhostapp.com/", //rb13
+"https://gckasoho.github.io/", //rb14
+"https://allenvalbuena123.github.io/allenvalbuena/main_site.html", //rb15
+"https://hugvan.github.io/project3/", //rb16
 ]
 
 function dispProj(){
