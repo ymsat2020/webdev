@@ -128,7 +128,7 @@ var desc = [
 "Our goal of this website is to spread awareness on the issues on the West Philippine Sea.",
 "This site acts as a summary of the ongoing climate crisis, and it aims to spread awareness and promote the preservation of our planet.", // end of Be
 
-"Our site aims to inform and warn others about dangerous internet games, detailing examples such as the Blue Whale Challenge and Pass Out Challenge— as well as how to avoid them.",
+"Our site aims to inform and warn others about dangerous internet games, detailing examples such as the Blue Whale Challenge and Pass Out Challengeâ€” as well as how to avoid them.",
 "The Philippine Healthcare System in Context",
 "Animal cruelty could be happening all around you, but since they don't have voices of their own, you might not realize it.",
 "A website that helps the user in identifying forms of fake news and infornms the user of viable ways to fight back against fake news.",
@@ -363,6 +363,7 @@ function dispProj(){
 	}
 		
 	document.getElementById("pHolder").innerHTML = tobeDisp;
+	myVar = setTimeout(dispProj, 10000);
 }
 
  
