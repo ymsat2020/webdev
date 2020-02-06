@@ -1,0 +1,64 @@
+* {
+	box-sizing: border-box;  /* includes the border and padding in the width and height */
+}
+body {color: blue; font-family: arial;
+}
+div.main {background-color: lightgray; width: 95%; margin-left:5%; clear:left}
+
+#vote {
+  -ms-transform: rotate(-20deg); /* IE 9 */
+  -webkit-transform: rotate(-20deg); /* Safari */
+  transform: rotate(-20deg);
+  margin-right: 20px;
+  float:left;
+}
+#shuffle{
+  -ms-transform: rotate(90deg); /* IE 9 */
+  -webkit-transform: rotate(90deg); /* Safari */
+  transform: rotate(90deg);
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  position: fixed;
+  bottom:50px;
+  right: -45px;
+  padding: 10px;
+  cursor: pointer;
+  letter-spacing:2px;
+  border-radius: 0px 0px 15px 15px; 
+}
+
+#shuffle:hover {
+	color: red;
+}
+
+
+div.gallery {
+  margin: 5px;
+  float: left;
+  width: 293px; height:230px;
+  opacity: 0.65;
+  border
+}
+
+div.gallery:hover {
+  opacity: 1;
+  border: 1px solid lightgray;
+}
+
+div.gallery img {
+  width: 100%;
+  height: 150px;
+}
+
+div.desc {
+  padding-left: 5px;
+  border-left: 5px solid blue;
+  font-size: .7em;
+  height: 50px;
+  overflow: auto;
+}
+
+span {font-weight: bold; color: blue; text-decoration: underline }
+
+div.gallery img {width: 290px; height:150px}
