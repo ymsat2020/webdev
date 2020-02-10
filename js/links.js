@@ -1,5 +1,5 @@
 var links = [
-"be1","be2","be3","be4","be5","be6","be7","be8","be9",
+"be1","be2","be3","be4","be5","be6","be7","be8","be9","be10",
 "cs1","cs10","cs11","cs2","cs3","cs4","cs5","cs6","cs7","cs8","cs9",
 "k1","k2","k3","k4","k5","k6","cs7","cs8","cs9",
 "li1","li2","li3","li4","li5","li6","li7","li8","li9","li10",
@@ -18,7 +18,8 @@ var title = [
 "Sogie Quality Now",
 "IC Change",
 "West Philippine Sea",
-"The Climate Connection", // end of Be
+"The Climate Connection",
+"Data Privacy", // end of Be
 
 "The Dangers of Socal Media \"Games\"",
 "Medi-kool",
@@ -68,7 +69,7 @@ var title = [
 
 "Classrooms and Social Media",
 "Floodwatch",
-"Stress",
+"Don't Stress Meowt",
 "Scale of Trash",
 "HTML: How to Mend a Life",
 "Internet Safety",
@@ -126,7 +127,8 @@ var desc = [
 "Our website is dedicated to raising awareness on the issues faced by the LGBT+ community, including one of the most recent ones, the passing of the SOGIE bill.",
 "With the news becoming more accessible to the mass media, our website aims to spread awareness regarding a very real global issue that is Climate Change. ",
 "Our goal of this website is to spread awareness on the issues on the West Philippine Sea.",
-"This site acts as a summary of the ongoing climate crisis, and it aims to spread awareness and promote the preservation of our planet.", // end of Be
+"This site acts as a summary of the ongoing climate crisis, and it aims to spread awareness and promote the preservation of our planet.",
+"This website aims to show why people should care about data privacy and how they can improve their security.", // end of Be
 
 "Our site aims to inform and warn others about dangerous internet games, detailing examples such as the Blue Whale Challenge and Pass Out Challenge— as well as how to avoid them.",
 "The Philippine Healthcare System in Context",
@@ -234,7 +236,8 @@ var urls = [
 "https://sogieequalitynow.000webhostapp.com/htdocs/index.html",
 "http://icchange.000webhostapp.com/",
 "http://csproject.aghamroad.com",
-"https://theclimateconnection.000webhostapp.com",	// end of Be
+"https://theclimateconnection.000webhostapp.com",
+"https://protectionontheinternet.000webhostapp.com/",	// end of Be
 
 "https://dangers-of-social-media-games.000webhostapp.com/index.html",
 "https://medi-kool.000webhostapp.com/",
@@ -279,7 +282,7 @@ var urls = [
 "http://aquacibus.000webhostapp.com/",
 "https://poverty-awareness.000webhostapp.com/",
 "https://beanecowarrior.000webhostapp.com/",
-"http://bit.ly/byehomebiome",
+"https://byehomebiome.github.io/",
 "https://csproject-slayer.000webhostapp.com/", // end of Mg
 
 "http://socialmediainclass.000webhostapp.com/",
