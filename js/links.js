@@ -1,7 +1,8 @@
+//names of the image files
 var links = [
 "be1","be2","be3","be4","be5","be6","be7","be8","be9","be10",
 "cs1","cs10","cs11","cs2","cs3","cs4","cs5","cs6","cs7","cs8","cs9",
-"k1","k2","k3","k4","k5","k6","cs7","cs8","cs9",
+"k1","k2","k3","k4","k5","k6","k7","k8","k9",
 "li1","li2","li3","li4","li5","li6","li7","li8","li9","li10",
 "mg1","mg10","mg11","mg12","mg2","mg3","mg4","mg5","mg6","mg7","mg8","mg9",
 "na1","na2","na3","na4","na5","na6","na7","na8","na9",
@@ -366,6 +367,7 @@ function dispProj(){
 	}
 		
 	document.getElementById("pHolder").innerHTML = tobeDisp;
+	myVar = setTimeout(dispProj, 20000);
 }
 
  
