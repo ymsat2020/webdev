@@ -262,7 +262,7 @@ var urls = [
 "https://nagimaeda.github.io/csproject2q/",
 "http://potassium131718.000webhostapp.com/",	// end of K
 
-"https://flamazoniaandhowtostopit.000webhostapp.com/",
+"https://lostvyane.github.io/FlamazoniaAndHowToStopIt/",
 "https://politicalcompass.000webhostapp.com/",
 "http://colonialmentality.000webhostapp.com",
 "http://prideshikken.000webhostapp.com",
