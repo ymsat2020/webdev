@@ -249,7 +249,7 @@ var urls = [
 "http://cramcramcram.000webhostapp.com/",
 "https://everything-you-need-toknow-about-sogie.000webhostapp.com/",
 "https://advocasea.000webhostapp.com",
-"bit.ly/Eyesberg",
+"https://eyesberg.000webhostapp.com/index.html",
 "http://cs3q2proj.000webhostapp.com/",		// end of Cs
 
 "http://k15k24k282ndquarter.dx.am/project/",
