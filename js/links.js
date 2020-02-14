@@ -131,7 +131,7 @@ var desc = [
 "This site acts as a summary of the ongoing climate crisis, and it aims to spread awareness and promote the preservation of our planet.",
 "This website aims to show why people should care about data privacy and how they can improve their security.", // end of Be
 
-"Our site aims to inform and warn others about dangerous internet games, detailing examples such as the Blue Whale Challenge and Pass Out Challenge— as well as how to avoid them.",
+"Our site aims to inform and warn others about dangerous internet games, detailing examples such as the Blue Whale Challenge and Pass Out Challengeâ€” as well as how to avoid them.",
 "The Philippine Healthcare System in Context",
 "Animal cruelty could be happening all around you, but since they don't have voices of their own, you might not realize it.",
 "A website that helps the user in identifying forms of fake news and infornms the user of viable ways to fight back against fake news.",
@@ -249,7 +249,7 @@ var urls = [
 "http://cramcramcram.000webhostapp.com/",
 "https://everything-you-need-toknow-about-sogie.000webhostapp.com/",
 "https://advocasea.000webhostapp.com",
-"https://eyesberg.000webhostapp.com/",
+"bit.ly/Eyesberg",
 "http://cs3q2proj.000webhostapp.com/",		// end of Cs
 
 "http://k15k24k282ndquarter.dx.am/project/",
