@@ -117,6 +117,7 @@ RB
 "GKS", //rb14
 "Kradikal Opinyon", //rb15
 "PISAY CONCESSIONAIRES", //rb16
+"Pisay Insider", //rb17
 ]
 
 var desc = [
@@ -226,6 +227,7 @@ RB
 "Meet some of the most important people in our Pisay journey, our Grade 8 friend group: GKS!", //rb14
 "This website's purpose is to address certain controversies regarding the new school policies. ", //rb15
 "Our ratings for what our top 3 foods are from the concessionaires here in Pisay.", //rb16
+"PisayInsider is a website dedicated to the most highlighted events and dates to remember in a PSHS school year!", //rb17
 ]
 
 var urls = [
@@ -335,6 +337,7 @@ RB
 "https://gckasoho.github.io/", //rb14
 "https://allenvalbuena123.github.io/allenvalbuena/main_site.html", //rb15
 "https://hugvan.github.io/project3/", //rb16
+"https://pshsinsider.000webhostapp.com/", //rb17
 ]
 
 function dispProj(){
