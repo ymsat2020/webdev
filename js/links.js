@@ -280,7 +280,7 @@ var urls = [
 "https://anonymous3395.github.io/CS3Project2-Mg01-Mg03-Mg15-/",
 "https://black-bauhinia-mg2023-1.000webhostapp.com",
 "https://q2prj-bullying-bermudez-consebido.000webhostapp.com/htdocs/homepage.html",
-"http://aquacibus.000webhostapp.com/",
+"http://techychair.github.io/aquacibus",
 "https://poverty-awareness.000webhostapp.com/",
 "https://beanecowarrior.000webhostapp.com/",
 "https://byehomebiome.github.io/",
