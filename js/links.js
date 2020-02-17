@@ -291,7 +291,7 @@ var urls = [
 "https://chaosbolt9999.github.io/meowt",
 "https://2ndquartercs3project.000webhostapp.com/",
 "https://howtomendalife.000webhostapp.com/Home.html",
-"https://cs3project.000webhostapp.com/",
+"https://sollar-staple.000webhostapp.com/",
 "https://save-ph.000webhostapp.com/",
 "https://mentalhealthandict.000webhostapp.com/",
 "https://understandinganxiety.000webhostapp.com/",  // end of Na
