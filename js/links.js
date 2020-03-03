@@ -6,7 +6,7 @@ var links = [
 "li1","li2","li3","li4","li5","li6","li7","li8","li9","li10",
 "mg1","mg10","mg11","mg12","mg2","mg3","mg4","mg5","mg6","mg7","mg8","mg9",
 "na1","na2","na3","na4","na5","na6","na7","na8","na9",
-"sr2","sr3","sr4","sr5","sr7","sr8","sr9","sr10","sr11","sr12","sr13","sr14","sr15","sr16","sr17","sr18","sr19",
+"sr2","sr3","sr4","sr5","sr7","sr8","sr9","sr10","sr11","sr12","sr13","sr14","sr15","sr16","sr17","sr18","sr19", "sr20",
 "rb1","rb2","rb3","rb4","rb5","rb6","rb7","rb8","rb9","rb10","rb11","rb13","rb14","rb15","rb16", "rb17",
 ]
 
@@ -98,6 +98,7 @@ SR
 'The "Death" of OPM', //sr17
 "Bivariate Data", //sr18
 "CONSULT.CO", //sr19
+"Eukaryotes", //sr20
 
 /**************************************
 RB
@@ -208,6 +209,7 @@ SR
 "A blog/article about the state of certain OPM bands today", //sr17
 "Just a site explaining bivariate data.", //sr18
 "Our website is an online consultation form for students.", //sr19
+"Bio-eduational site on the Eurkaryotic Cells", //sr20
 
 /**************************************
 RB
@@ -318,6 +320,7 @@ SR
 "https://whoopsie.000webhostapp.com/index.html", //sr17
 "https://bivariatedatauwu.000webhostapp.com/index.html", //sr18
 "https://localnoob.github.io/", //sr19
+"https://fibi-renren.github.io/fibi-renren-bio-cs-project-b2023.github.io/", //sr20
 
 /**************************************
 RB
